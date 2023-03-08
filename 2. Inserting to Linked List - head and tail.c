@@ -18,7 +18,7 @@ int main (void) {
 	Node *list1_head = NULL;
 	
 	// inserting nodes at head
-	list1_head = insert_at_head(list1_head, 8);
+	list1_head = insert_at_head(list1_head, 9);
 	list1_head = insert_at_head(list1_head, 16);
 	list1_head = insert_at_head(list1_head, 23);
 	list1_head = insert_at_head(list1_head, 28);
